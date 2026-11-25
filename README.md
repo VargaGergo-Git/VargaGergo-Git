@@ -14,13 +14,6 @@ A sleep, recovery and fitness app for iPhone and Apple Watch. It explains your n
 
 **[Get it on the App Store →](https://apps.apple.com/app/id6762456252)**
 
-## Also made
-
-| Project | What it does |
-| --- | --- |
-| [macbook-fan-control](https://github.com/VargaGergo-Git/macbook-fan-control) | Free menu bar app to watch temperatures and control the fans on any MacBook |
-| [Claude-Monitor](https://github.com/VargaGergo-Git/Claude-Monitor) | Menu bar app that shows what every Claude Code session is doing and tells you when one needs you |
-
 ## Interests
 
 - Sleep, recovery and what health numbers actually mean
